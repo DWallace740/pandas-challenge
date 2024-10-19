@@ -1,0 +1,10 @@
+Written Report: Panda Challenge- Module 4 Challenge
+
+Summary of Analysis
+In this analysis, we looked at data from different schools to understand how well students are doing in math and reading. We used the PyCitySchools dataset to check things like test scores, the number of students passing, and how much each school spends per student. We also compared schools based on their size, type (district or charter), and how much money they spend on each student. The goal was to see if spending more money helps students do better in school, and whether charter schools perform better than district schools.
+
+Conclusion 1: Spending More Doesn't Always Mean Better Results
+From the data, we found that schools spending between $585 and $630 per student had higher test scores than schools spending more than $630. This means that just spending more money on each student doesn’t always lead to better results. Other things, like the quality of teaching, could be more important for student success.
+
+Conclusion 2: Charter Schools Perform Better Than District Schools
+We also found that charter schools had better overall results than district schools. On average, charter schools had a passing rate of 90.43%, while district schools had a much lower passing rate of 53.67%. This suggests that charter schools might be using better teaching methods or have other advantages that help students perform better.
